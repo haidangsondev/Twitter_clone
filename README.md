@@ -46,7 +46,7 @@ Dự án sử dụng mô hình MVC (Model-View-Controller), bao gồm:
 ### Các bước để cài đặt và chạy dự án:
 1. Clone repository:
    ```bash
-   git clone [link repository]
+   git clone https://github.com/haidangsondev/Twitter_clone
    ```
 2. Cài đặt các gói cần thiết:
    ```bash
